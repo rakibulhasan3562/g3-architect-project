@@ -231,7 +231,8 @@ main>section{
         gap: 50px;
     }
     #experience-badge{
-        margin: 20px 30px;
+        margin-left: 20px;
+        margin-top: 20px;
     }
 
 }
@@ -247,8 +248,8 @@ main>section{
     .sponsors-img{
         gap: 50px;
     }
-     #experience-badge{
-        margin: 20px 30px;
+    #experience-badge{
+        margin-left: 20px;
+        margin-top: 20px;
     }
-
 }
