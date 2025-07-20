@@ -231,7 +231,7 @@ main>section{
         gap: 50px;
     }
     #experience-badge{
-        margin-left: 20px;
+        margin-left: auto;
         margin-top: 20px;
     }
 
